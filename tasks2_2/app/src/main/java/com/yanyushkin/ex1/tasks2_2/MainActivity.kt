@@ -63,7 +63,7 @@ class MainActivity : AppCompatActivity() {
             if (grantResults.size > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
                 Toast.makeText(this, "Fine! Thank you!", Toast.LENGTH_SHORT).show()
             } else {
-                Toast.makeText(this, "Hmm! Are you stupid? Give me location!", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Hmm! Are you durachok? Give me location!", Toast.LENGTH_SHORT).show()
             }
         }
     }
