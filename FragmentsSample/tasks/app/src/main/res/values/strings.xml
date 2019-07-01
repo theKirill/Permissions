@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tasks</string>
+    <string name="forButton">Нажми меня!</string>
+    <string name="forTextView">Мой номер: </string>
+</resources>

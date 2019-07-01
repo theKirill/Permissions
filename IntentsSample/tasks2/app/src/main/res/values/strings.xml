@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tasks2</string>
+    <string name="firstActivity">First Activity</string>
+    <string name="secondActivity">Second Activity</string>
+    <string name="button1">Open the SecondActivity</string>
+    <string name="button2">Go to back</string>
+</resources>
